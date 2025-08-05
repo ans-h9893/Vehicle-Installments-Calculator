@@ -19,7 +19,7 @@ Before accessing the main application, users must log in using the following cre
 
 > After successful login, the user is redirected to the main application window.
 
-![Main Application Screenshot](./main-app.png)
+![Main Application Screenshot](/screenshots/main-app.png)
 
 ---
 
