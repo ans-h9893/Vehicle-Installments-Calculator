@@ -61,7 +61,7 @@ Before accessing the main application, users must log in using the following cre
 
 1. Clone the repository:
    bash
-   git clone https://github.com/your-username/vehicle-installments-calculator.git
+   git clone https://github.com/ans-h9893/Vehicle-Installments-Calculator.git
 2. Open the project in Visual Studio.
 
 3. Build the solution:
