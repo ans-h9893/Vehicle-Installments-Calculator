@@ -1,11 +1,3 @@
-<h2>Screenshot Gallery</h2>
-
-<p float="left">
-  <img src="screenshots/login-page.png" />
-  <img src="screenshots/main-app.png" />
-  <img src="screenshots/rates-saved.png" />
-</p>
-
 # 🚗 Vehicle Installments Calculator (WPF Desktop Application)
 
 This is a WPF desktop application built using C# and XAML that helps users calculate vehicle loan installment payments based on customer input, vehicle details, interest rates, and payment frequency.
@@ -55,6 +47,14 @@ Before accessing the main application, users must log in using the following cre
 - WPF (Windows Presentation Foundation)
 - XAML for UI Design
 - Object-Oriented Programming Principles
+
+## Screenshot Gallery
+
+<p float="left">
+  <img src="screenshots/login-page.png" />
+  <img src="screenshots/main-app.png" />
+  <img src="screenshots/rates-saved.png" />
+</p>
 
 ---
 ## 🚀Getting Started 
